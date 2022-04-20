@@ -149,6 +149,6 @@ https://torrents-api.ryukme.repl.co/api/nyaasi/jujutsu kaisen/2
 
 #### You can fork the repo and deploy on VPS or deploy it on Heroku :)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MasambaAffair/Torrents-Api)
 
 ---
